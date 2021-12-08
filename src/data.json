@@ -1,56 +1,56 @@
 {
     "features": [
-      {
-        "type": "Feature",
-        "properties": {
-          "Office_ID": 960,
-          "Name": "Sopra Steria",
-          "Description": "Her jobbes det hardt!",
-          "Icon": "https://avatars.githubusercontent.com/u/1417687?s=280&v=4"
+        {
+            "type": "Feature",
+            "properties": {
+                "Office_ID": 960,
+                "Name": "Sopra Steria",
+                "Description": "Her jobbes det hardt!",
+                "Icon": "https://avatars.githubusercontent.com/u/1417687?s=280&v=4"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [59.91226045533021, 10.75458119294896]
+            }
         },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [59.91226045533021, 10.75458119294896]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "Office_ID": 1219,
-          "Name": "Helsedirektoratet",
-          "Description": "Helse og greier",
-          "Icon": "https://yt3.ggpht.com/ytc/AKedOLT7SBlxg3ZeM8YFLuqZacayKVHSe-kFch6jvhDn4Q=s900-c-k-c0x00ffffff-no-rj"
+        {
+            "type": "Feature",
+            "properties": {
+                "Office_ID": 1219,
+                "Name": "Helsedirektoratet",
+                "Description": "Helse og greier",
+                "Icon": "https://yt3.ggpht.com/ytc/AKedOLT7SBlxg3ZeM8YFLuqZacayKVHSe-kFch6jvhDn4Q=s900-c-k-c0x00ffffff-no-rj"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [59.94584180205787, 10.776024191851473]
+            }
         },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [59.94584180205787, 10.776024191851473]
-        }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "Office_ID": 2282,
-          "Name": "Sparebank 1",
-          "Description": "Bank og finans",
-          "Icon": ""
+        {
+            "type": "Feature",
+            "properties": {
+                "Office_ID": 2282,
+                "Name": "Sparebank 1",
+                "Description": "Bank og finans",
+                "Icon": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [59.91574294071493, 10.747885583480526]
+            }
         },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [59.91574294071493, 10.747885583480526]
+        {
+            "type": "Feature",
+            "properties": {
+                "Office_ID": 2255,
+                "Name": "Universitetsmuseet",
+                "Description": "Kultur",
+                "Icon": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Insigne_musei_Bergense.png"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [60.388470791586364, 5.320854252232378]
+            }
         }
-      },
-      {
-        "type": "Feature",
-        "properties": {
-          "Office_ID": 2255,
-          "Name": "Universitetsmuseet",
-          "Description": "Kultur",
-          "Icon": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Insigne_musei_Bergense.png"
-        },
-        "geometry": {
-          "type": "Point",
-          "coordinates": [60.388470791586364, 5.320854252232378]
-        }
-      }
     ]
-  }
+}

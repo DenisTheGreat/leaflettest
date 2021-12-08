@@ -9,13 +9,13 @@ import './icons.css'
 export const IconOfficeBuilding = new Icon({
     iconUrl: officeIcon,
     shadowUrl: officeIconShadow,
-    iconSize: [30, 30],
+    iconSize: [30, 30]
 })
 
 export const PinIcon = new Icon({
     iconUrl: icon,
     shadowUrl: iconShadow,
-    iconSize: [20, 30],
+    iconSize: [20, 30]
 })
 
 export const CustomIcon = (iconUrl) => {
@@ -23,7 +23,7 @@ export const CustomIcon = (iconUrl) => {
         ? PinIcon
         : new Icon({
               iconUrl: iconUrl,
-              iconSize: [30, 30],
+              iconSize: [30, 30]
           })
 }
 
@@ -31,6 +31,6 @@ export const CreateClusterCustomIcon = function (cluster) {
     return L.divIcon({
         html: `<span>${cluster.getChildCount()}</span>`,
         className: 'marker-cluster-custom',
-        iconSize: L.point(40, 40, true),
+        iconSize: L.point(40, 40, true)
     })
 }
